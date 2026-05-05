@@ -13,13 +13,6 @@ This program reads a maze from a text file, solves it using algorithms, and gene
 - 🎯 Identifies start (A) and goal (B)
 - ⭐ Highlights the final solution path
 
-📁 Project Structure
-maze_solver/
-├── maze.py          # Main solver (BFS & DFS)
-├── maze1.txt        # Sample maze input
-├── maze2.txt        # Sample maze input
-├── maze.png         # Generated solution image
-└── README.md        # Project documentation
 
 ▶️ How to Run
 
